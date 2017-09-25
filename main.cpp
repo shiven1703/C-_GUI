@@ -4,7 +4,6 @@
 #include<fstream>
 #include<ctime>
 
-
 #define Exit 10
 #define button 6
 #define button2 9
