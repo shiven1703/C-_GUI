@@ -3,12 +3,12 @@ This is the Student attendance system project in C++ . i use Win32 api to create
 
 Feature :-
 
-- You can select subject.
-- You can select Class.
-- You can select Faculty.
+- You can select subject,Class,faculty.
 - You can add remarks.
 - Check the number you want to mark as absent.
-- Click on done button.
-- After clicking done button .. a file will created with the record of your remark nd absent number on that day.
-- File will be save in Attendance_log Folder.
+- Click on done button to save your attendance.
+- To view the attendance Go to the main Window and click on file menu.
+- In the file menu there is a option of "view Attendance.".
+- In View Atten. window select cardinalities.
+
 
