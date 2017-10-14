@@ -10,4 +10,4 @@ Feature :-
 - To view the attendance Go to the main Window and click on file menu.
 - In the file menu there is a option of "view Attendance.".
 - In View Atten. window select cardinalities.
-- That All.
+- That All(You can download the .zip file and run main.cpp).
