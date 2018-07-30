@@ -1,5 +1,5 @@
 # Student_Attendance_system_with_win32_api_and_C-
-Student attendance system project in C++ . i used Win32 api to create GUI.
+Student attendance system project in C++.(GUI = Win32 API)
 
 Feature :-
 
